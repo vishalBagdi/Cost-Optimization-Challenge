@@ -1,0 +1,1 @@
+we are  reduce the Cosmos DB costs, I propose archiving older records to Azure Blob Storage using Durable Functions. This enables us to retain all data, meet latency needs for cold data, and keep API contracts unchanged. The architecture ensures simplicity, scalability, and zero downtime.

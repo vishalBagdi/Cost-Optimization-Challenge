@@ -293,4 +293,4 @@ Ready to tailor this into Azure DevOps pipelines with linked templates or make i
 
 
 
-this is the copilot answer my answer in the psudocode.md file 
+this is the copilot answer my solution in the psudocode.md file 
